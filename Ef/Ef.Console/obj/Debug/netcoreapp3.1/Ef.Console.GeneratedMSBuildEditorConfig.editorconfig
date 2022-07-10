@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Ef.Console
+build_property.ProjectDir = C:\Dev\dotnet\ef\Ef\Ef.Console\
